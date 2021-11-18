@@ -1,0 +1,4 @@
+ssh-keygen -o
+cat /Users/nimamemarzadeh/.ssh/id_rsa.pub
+
+coppy that for ssh key 

@@ -21,3 +21,6 @@ git push origin master
 git pulll origin master
 
 git remote remove origin 
+
+git branch branchename // creat baranch
+git checkout branchename // going to that branch
