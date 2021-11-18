@@ -24,3 +24,5 @@ git remote remove origin
 
 git branch branchename // creat baranch
 git checkout branchename // going to that branch
+
+git config --global init.defultBranch main // setting defultBranch to main
