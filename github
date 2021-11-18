@@ -1,0 +1,23 @@
+git clone https://github.com/nmemarcoding/test.git
+
+git status
+git add
+git commit -a -m "this is first virsion" // a for commit averything -m for message
+
+git config --global user.name "nmemarcoding"
+git config --global user.email "nmemarcoding@gmail.com"
+
+
+git config --list
+git log
+
+git push origin
+
+git init
+git add .     //means add every things
+git -m "right your commit here"
+git remote add origin https://github.com/nmemarcoding/ticktock-toe-game-js.git
+git push origin master
+git pulll origin master
+
+git remote remove origin 
